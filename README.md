@@ -44,11 +44,8 @@
 - [🎯 Supported Intents](#-supported-intents)
 - [📊 Model Performance](#-model-performance)
 - [🚀 Quick Start](#-quick-start)
-- [📡 API Endpoints](#-api-endpoints)
 - [📁 Project Structure](#-project-structure)
 - [⚙️ Configuration](#️-configuration)
-- [🧪 Running Tests](#-running-tests)
-- [🐳 Docker Deployment](#-docker-deployment)
 - [⚡ Performance](#-performance)
 - [🛠️ Tech Stack](#️-tech-stack)
 
