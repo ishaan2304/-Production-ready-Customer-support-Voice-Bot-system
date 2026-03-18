@@ -309,23 +309,6 @@ pytest tests/test_voicebot.py -v
 
 ---
 
-## 🐳 Docker Deployment
-
-```bash
-# Build and start
-docker-compose up --build
-
-# Run in background
-docker-compose up -d
-
-# Stop
-docker-compose down
-```
-
-API available at `http://localhost:8000/docs`
-
----
-
 ## ⚡ Performance
 
 | Stage | CPU Latency | GPU Latency |
@@ -352,7 +335,6 @@ API available at `http://localhost:8000/docs`
 | **Data Validation** | Pydantic v2 |
 | **Configuration** | YAML |
 | **Testing** | Pytest + HTTPX |
-| **Containerization** | Docker + Docker Compose |
 | **Evaluation** | scikit-learn + matplotlib + seaborn |
 
 </div>
