@@ -59,7 +59,7 @@
 🎤 User speaks  →  📝 Whisper ASR  →  🧠 DistilBERT  →  💬 Response  →  🔊 gTTS Audio
 ```
 
-Built with **FastAPI**, **HuggingFace Transformers**, **OpenAI Whisper**, and **gTTS** — deployable locally or via Docker.
+Built with **FastAPI**, **HuggingFace Transformers**, **OpenAI Whisper**, and **gTTS** — deployable locally or via Docker
 
 ---
 
