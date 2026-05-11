@@ -53,7 +53,7 @@
 
 ##  Overview
 
-**VoiceBot** is a production-grade, end-to-end voice-based customer support system built as a modular ML pipeline. It accepts spoken audio, understands user intent using transformer-based NLP, generates contextually appropriate responses, and returns synthesized speech — all via a clean. REST API.
+**VoiceBot** is a production-grade, end-to-end voice-based customer support system built as a modular ML pipeline. It accepts spoken audio, understands user intent using transformer-based NLP, generates contextually appropriate responses, and returns synthesized speech — all via a clean. REST AP
 
 ```
 🎤 User speaks  →  📝 Whisper ASR  →  🧠 DistilBERT  →  💬 Response  →  🔊 gTTS Audio
