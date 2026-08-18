@@ -1,0 +1,62 @@
+[
+  {
+    "id": "refund_policy",
+    "category": "refund",
+    "title": "Refund Policy",
+    "content": "Our refund policy allows customers to request a full refund within 30 days of purchase. Refunds are processed within 5-7 business days and credited back to the original payment method. For digital products, refunds are available within 14 days if the product has not been downloaded more than 3 times. Damaged or defective items qualify for immediate refund or replacement at no extra cost. To initiate a refund, customers need to provide their order ID and reason for return."
+  },
+  {
+    "id": "shipping_policy",
+    "category": "shipping",
+    "title": "Shipping Policy",
+    "content": "We offer three shipping options: Standard shipping takes 5-7 business days and costs $4.99. Express shipping takes 2-3 business days and costs $12.99. Overnight shipping is available for $24.99. Free standard shipping is available on all orders over $50. We ship to over 50 countries internationally. International shipping takes 10-15 business days. Orders placed before 2 PM EST are processed the same day. Tracking information is emailed within 24 hours of shipment."
+  },
+  {
+    "id": "return_policy",
+    "category": "return",
+    "title": "Return Policy",
+    "content": "Items can be returned within 30 days of delivery in original condition with tags attached. Sale items are eligible for store credit only. To initiate a return, log into your account and go to Order History. A prepaid return label will be emailed within 24 hours. Refunds are processed within 5-7 business days after we receive the returned item. Exchanges can be requested for a different size or color at no additional cost within 30 days."
+  },
+  {
+    "id": "subscription_plans",
+    "category": "subscription",
+    "title": "Subscription Plans",
+    "content": "We offer three subscription tiers. Basic plan costs $9.99 per month and includes 10GB storage and email support. Pro plan costs $19.99 per month and includes 100GB storage, priority support, and advanced analytics. Enterprise plan costs $49.99 per month and includes unlimited storage, 24/7 dedicated support, and custom integrations. All plans can be cancelled anytime with no cancellation fee. Annual billing offers a 20% discount. Subscriptions auto-renew unless cancelled 24 hours before renewal date."
+  },
+  {
+    "id": "payment_methods",
+    "category": "payment",
+    "title": "Accepted Payment Methods",
+    "content": "We accept Visa, Mastercard, American Express, and Discover credit and debit cards. PayPal, Apple Pay, and Google Pay are also accepted. Bank transfers are available for orders over $500. Cryptocurrency payments including Bitcoin and Ethereum are accepted. All transactions are secured with 256-bit SSL encryption. We do not store full credit card numbers. Payment issues such as declined cards may be due to incorrect billing address, expired card, or bank restrictions on online transactions."
+  },
+  {
+    "id": "account_management",
+    "category": "account",
+    "title": "Account Management",
+    "content": "To reset your password, click Forgot Password on the login page and enter your email. A reset link is sent within 5 minutes. Accounts are locked after 5 failed login attempts and unlock after 30 minutes. To update your email address, go to Account Settings and verify the new email. To delete your account, contact support at least 7 days in advance. Two-factor authentication is available and recommended for security. Account data can be exported in JSON or CSV format from Settings."
+  },
+  {
+    "id": "order_process",
+    "category": "order",
+    "title": "Order Process and Tracking",
+    "content": "After placing an order, you will receive a confirmation email within 5 minutes. Orders are processed within 24 hours on business days. Once shipped, a tracking number is sent via email and SMS. You can track your order on our website under Order History or directly on the courier website. Orders can be cancelled within 2 hours of placement for a full refund. After 2 hours, cancellation may not be possible if the order is already being processed. For missing orders, contact support with your order ID and we will investigate within 24 hours."
+  },
+  {
+    "id": "technical_support",
+    "category": "technical",
+    "title": "Technical Support",
+    "content": "Our technical support team is available Monday to Friday 9 AM to 6 PM EST and Saturday 10 AM to 4 PM EST. For urgent issues, 24/7 emergency support is available for Pro and Enterprise subscribers. Common issues like app crashes can be resolved by clearing cache and reinstalling the app. For login issues, try clearing browser cookies or using incognito mode. API rate limits are 100 requests per minute for Basic, 500 for Pro, and unlimited for Enterprise. Bug reports can be submitted through the Help Center with screenshots and error logs."
+  },
+  {
+    "id": "product_warranty",
+    "category": "product",
+    "title": "Product Warranty and Guarantee",
+    "content": "All physical products come with a 1-year manufacturer warranty covering defects in materials and workmanship. Extended warranty plans are available for 2 or 3 years at additional cost. Software products include 6 months of free updates and bug fixes. Our satisfaction guarantee means if you are not happy within 30 days, we will refund your purchase no questions asked. Warranty claims require proof of purchase and description of the defect. Damage caused by misuse or accidents is not covered under warranty."
+  },
+  {
+    "id": "contact_support",
+    "category": "contact",
+    "title": "Contact and Support Channels",
+    "content": "You can reach our support team through multiple channels. Live chat is available on our website 24/7 with average response time of 2 minutes. Email support at support@example.com receives replies within 4 hours during business days. Phone support is available at 1-800-EXAMPLE Monday to Friday 9 AM to 6 PM EST. Our Help Center at help.example.com has over 500 articles covering common questions. Community forum at community.example.com allows users to help each other. Social media support is available on Twitter at @ExampleSupport."
+  }
+]
