@@ -1,0 +1,52 @@
+# VoiceBot v2 Requirements
+# ── Core Framework ──
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.12
+pydantic==2.9.2
+websockets==13.1
+
+# ── ML / NLP ──
+torch==2.4.1
+transformers==4.44.2
+datasets==3.0.1
+accelerate==0.34.2
+tokenizers==0.19.1
+
+# ── ASR ──
+openai-whisper==20231117
+
+# ── LLM ──
+openai==1.51.0
+
+# ── RAG ──
+langchain==0.3.1
+langchain-openai==0.2.1
+langchain-community==0.3.1
+chromadb==0.5.11
+tiktoken==0.7.0
+
+# ── TTS ──
+gTTS==2.5.3
+elevenlabs==1.9.0
+
+# ── Config & Utils ──
+PyYAML==6.0.2
+python-dotenv==1.0.1
+
+# ── Evaluation ──
+jiwer==3.0.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# ── Testing ──
+pytest==8.3.3
+httpx==0.27.2
+
+# ── Logging ──
+python-json-logger==2.0.7
+
+# ── Other ──
+numpy==1.26.4
+scipy==1.14.1
