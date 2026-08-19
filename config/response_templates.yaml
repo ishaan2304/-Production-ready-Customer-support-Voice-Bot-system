@@ -1,0 +1,88 @@
+intents:
+  order_status:
+    label: "order_status"
+    responses:
+      - "To check your order status, please provide your order ID and I'll look that up for you right away."
+      - "I can help you track your order. Could you please share your order number?"
+      - "Let me help you find your order. Your order ID will be in your confirmation email."
+    follow_up: "Is there anything else you'd like to know about your order?"
+
+  order_cancellation:
+    label: "order_cancellation"
+    responses:
+      - "I understand you'd like to cancel your order. Please share your order ID."
+      - "To cancel your order, I'll need your order number."
+      - "I can help you with a cancellation. What's your order number?"
+    follow_up: "Would you also like information about our refund policy?"
+
+  refund_request:
+    label: "refund_request"
+    responses:
+      - "I'm sorry to hear you need a refund. Refunds typically take 5-7 business days. Could you share your order ID?"
+      - "I can initiate a refund for you. Please provide your order number."
+      - "Absolutely, I can help with a refund. I'll need your order ID and reason for the refund."
+    follow_up: "Is there anything else I can assist you with today?"
+
+  subscription_inquiry:
+    label: "subscription_inquiry"
+    responses:
+      - "For subscription queries, I can help you view, modify, or cancel your plan. What would you like to do?"
+      - "I'd be happy to help with your subscription. Would you like to upgrade, downgrade, pause, or cancel?"
+      - "Subscriptions can be managed from your account dashboard. What do you need help with?"
+    follow_up: "Do you have any other subscription questions?"
+
+  account_issues:
+    label: "account_issues"
+    responses:
+      - "I can help you with your account. Are you having trouble logging in or is there another issue?"
+      - "For account issues, please verify your registered email address."
+      - "I'm here to help resolve your account issue. What problem are you experiencing?"
+    follow_up: "Is there anything else about your account I can help with?"
+
+  payment_issues:
+    label: "payment_issues"
+    responses:
+      - "I'm sorry to hear you're experiencing a payment issue. Was a charge declined or is there an unexpected charge?"
+      - "Payment issues can happen for several reasons. Please share your account email and the issue you're facing."
+      - "I can look into payment concerns for you. What issue are you experiencing?"
+    follow_up: "Would you like me to escalate this to our billing team?"
+
+  shipping_inquiry:
+    label: "shipping_inquiry"
+    responses:
+      - "I can provide shipping details. Standard shipping takes 5-7 business days, express takes 1-2 days."
+      - "For shipping inquiries, your tracking number from your confirmation email gives real-time updates."
+      - "Shipping timelines depend on your location. Could you share your order ID?"
+    follow_up: "Is there anything else about your shipment?"
+
+  return_request:
+    label: "return_request"
+    responses:
+      - "I can help you initiate a return. Our policy allows returns within 30 days of delivery. Do you have your order ID?"
+      - "To start a return, I'll need your order number and the item you'd like to return."
+      - "Returns are straightforward for most items within 30 days in original condition. What's your order number?"
+    follow_up: "Would you also like to know about our exchange policy?"
+
+  technical_support:
+    label: "technical_support"
+    responses:
+      - "I'm here to help with technical issues. Could you describe the problem in more detail?"
+      - "For technical support, please share your device type and the specific error you're seeing."
+      - "Technical problems can be frustrating. What product or service are you having trouble with?"
+    follow_up: "If this issue persists, I can escalate it to our technical team."
+
+  product_inquiry:
+    label: "product_inquiry"
+    responses:
+      - "I'd be happy to help with product information. Which product are you interested in?"
+      - "I can share details about product features, pricing, and availability. Which product are you asking about?"
+      - "I can help you find the right product. Are you looking for specifications, pricing, or availability?"
+    follow_up: "Would you like to place an order for this product?"
+
+  fallback:
+    label: "fallback"
+    responses:
+      - "I'm sorry, I didn't quite understand your query. Could you please rephrase it?"
+      - "I'm having trouble understanding your request. Could you provide more details?"
+      - "I want to make sure I help you correctly. Could you clarify what you need assistance with?"
+    follow_up: "You can also reach our human support team at support@example.com."
